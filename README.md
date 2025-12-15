@@ -8,7 +8,8 @@ I'm **Vyom Sagar**, a Machine Learning Engineer and AI Researcher specializing i
 I’ve published research applying LLMs and Explainable AI to the **ISCHEMIA Trial**, one of the most influential cardiology trials of the decade, and I actively work on NLP, RAG pipelines, and model alignment (SFT, PPO, DPO).
 
 ---
-
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="vyomsagar" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/vyomsagar?trk=profile-badge">Vyom Sagar</a></div>
+              
 ## 🚀 **About Me**
 
 * 🎓 **M.S. in Computer Science**, University of Alabama at Birmingham
