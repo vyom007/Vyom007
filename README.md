@@ -103,10 +103,11 @@ ReactJS • .NET Core • Spring Boot • NodeJS • API Design • Secure SDLC
 
 ---
 
-## 🤝 **Let’s Connect!**
+## 🤝 Let’s Connect!
 
-📧 **[vyomsagar123@gmail.com](mailto:vyomsagar123@gmail.com)**
-🔗 **LinkedIn (https://www.linkedin.com/in/vyomsagar/)**
-💻 GitHub
+📧 **Email:** [vyomsagar123@gmail.com](mailto:vyomsagar123@gmail.com)  
+🔗 **LinkedIn:** [linkedin.com/in/vyomsagar](https://www.linkedin.com/in/vyomsagar/)  
+💻 **GitHub:** [github.com/vyom007](https://github.com/vyom007)
+
 
 
